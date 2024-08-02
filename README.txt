@@ -5,7 +5,7 @@ Ici est une reproduction de ce dernier via mon apprentissage de ce langage.
 L'ayant testé, il est super fonctionnel. Bien qu'au final, j'en redemande.
 
 Afin de le "lancer":
-	Dans VS code par exemple, ouvrez le dossier contenant les sous-dossiers; puis aller dans le dossier "src" et cliquez sur "main.py"
+	Dans VS code par exemple, ouvrez le dossier contenant les sous-dossiers; puis cliquez sur "main.py"
 Cela devrait faire l'affaire, si vous avez les dépendances adéquates ("pygame", "pyscroll", "pytmx", etc...)
 
 Bonne découverte et bon jeu
